@@ -61,7 +61,7 @@
     <div class="content">
       <div class="left">
         <img
-            src="~/assets/images/new.png"
+            src="~/assets/images/logo_new.png"
             alt="project-picture"
             class="logo"
           />
